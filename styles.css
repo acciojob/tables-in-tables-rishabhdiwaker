@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+table,
+      th,
+      tr,
+      td {
+        border: 2px solid black;
+        text-align: center;
+        width: 400px;
+      }
+      .one,
+      .two {
+        margin: 25px 0px 25px 0px;
+      }
+      .three,
+      .four {
+        margin: 25px 0px;
+      }
+      #h {
+        background-color: black;
+        color: white;
+      }
